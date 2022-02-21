@@ -2,7 +2,7 @@
  I'm Arthur, and this is my GitHub. Here you will see a lot of Javascript, Node.js, ReactJS, Angular and web projects in general.
 
 ### About me
-- I'm a computer technician graduated from CEFET-MG
+- I'm a computer technician graduated from [CEFET-MG](https://www.cefetmg.br/)
 - I :heart: studying Javascript and some of his frameworks/libs
 
 ### Most used technologies
