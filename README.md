@@ -7,7 +7,6 @@
 - I'm currently a Computer Engineering student, also at CEFET-MG
 - I :heart: studying Javascript and most of his frameworks/libs
 
-### Most used technologies
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSouzaC&show_icons=true&theme=dark&layout=compact" />
 </a>
