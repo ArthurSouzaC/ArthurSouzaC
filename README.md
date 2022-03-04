@@ -2,6 +2,7 @@
  I'm Arthur, and this is my GitHub. Here you will see a lot of Javascript, Node.js, ReactJS, Angular and web projects in general.
 
 ### About me
+- I live in 🇧🇷 and I'm 17 y/o
 - I'm a Computer Technician graduated from [CEFET-MG](https://www.cefetmg.br/)
 - I'm currently a Computer Engineering student, also at CEFET-MG
 - I :heart: studying Javascript and most of his frameworks/libs
