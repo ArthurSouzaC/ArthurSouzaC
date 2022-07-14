@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
  I'm Arthur, and this is my GitHub. Here you will see a lot of Javascript/Typescript code and web projects in general, including technologies such as Node.js, React, Angular, and many others.
 
 ### About me
