@@ -4,7 +4,7 @@
 ## About me
 - I live in Minas Gerais, Brazil and I'm 18 y/o
 - I'm a Computer Technician graduated from the brazilian federal university [CEFET-MG](https://www.cefetmg.br/)
-- I'm currently a Computer Engineering student, also at CEFET-MG
+- I'm currently a Analysis and Systems Development student, at PUC-MG university
 - I :heart: studying Javascript and most of his frameworks/libs
 
 ### Wanna talk?
